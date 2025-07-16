@@ -1,1 +1,5 @@
-https://github.com/MrMister-New/MrMisterfirmware/releases/download/v1.0.1/MrMisterfirmware.bin
+{
+    "version": "1.0.1",
+    "bin": "https://github.com/MrMister-New/MrMisterfirmware/releases/download/v1.0.1/MrMisterfirmware.bin"
+  }
+  
