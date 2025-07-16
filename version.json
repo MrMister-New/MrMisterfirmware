@@ -1,4 +1,4 @@
 {
   "version": "1.0.1",
-  "bin": "http://firmware.mrmister.dev/MrMisterfirmware.bin"
+  "bin": "http://mrmister-ota.web.app/MrMisterfirmware.bin"
 }
