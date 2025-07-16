@@ -1,4 +1,4 @@
 {
   "version": "1.0.1",
-  "bin": "http://chat.openai.com/mnt/data/MrMisterfirmware_http.bin"
+  "bin": "http://firmware.mrmister.dev/MrMisterfirmware.bin"
 }
